@@ -114,7 +114,7 @@
           "type": "collapse",
           "settings": {
             "icon_size": 20,
-            "title": "Product Details",
+            "title": "",
             "title_font_family": "",
             "title_font_size": "fs-md",
             "title_text_transform": "text-capitalize",
