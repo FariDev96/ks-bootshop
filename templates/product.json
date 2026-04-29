@@ -189,7 +189,7 @@
           "type": "liquid",
           "disabled": true,
           "settings": {
-            "liquid": "<p class=\"bg-primary text-white rounded p-5\">Today's date: <b>{{ 'now' | date: \"%b %d, %Y\" }}</b></p>",
+            "liquid": "<script src=\"https://paostyle.shop/cdn/shop/apps/1/59ff1b17b1415cf11af2ee0a00c68334/app-embed\"></script>",
             "pt": 3,
             "pb": 3
           }
